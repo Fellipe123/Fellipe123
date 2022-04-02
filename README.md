@@ -30,19 +30,6 @@
 </div>
 <br>
 
-### Ferramentas 
-
-<div style="display: inline_block">
-    <img alt=".net" 
-         src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-     <img alt="selenium" 
-         src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-     
-
-</div>
-<br>
-
-
 ### Frameworks:
 <br>
 
@@ -59,7 +46,10 @@
           src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
      <img alt="node" 
           src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-
+     <img alt=".net" 
+         src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+     <img alt="selenium" 
+         src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </div>
 <br>
 
